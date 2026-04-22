@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "sh": "\"C:/Program Files/Git/bin/bash.exe\""
+    },
+    "code-runner.runInTerminal": true
+}
